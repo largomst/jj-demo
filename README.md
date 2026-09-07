@@ -1,2 +1,2 @@
-# jj-demo
+# jujutsu
 learn jj
