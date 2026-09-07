@@ -1,1 +1,1 @@
-# feature b 2
+# feature b
